@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Consulgal](https://consulgal.pt/)
 
-- 💬 Ask me about **Visual Basic, MySQL, AutoLisp**
+- 💬 Ask me about **Visual Basic, SQL, AutoLisp**
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML**
 
