@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working at [Consulgal](https://consulgal.pt/)
 
-- 💬 Ask me about **Visual Basic, SQL, AutoLisp**
+- 💬 Ask me about **VB.NET, VBA, AutoLisp, AutoCAD Automation, JavaScript, Typescript**
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML**
+- 🌱 I’m currently learning **Data Science**
 
 # Contact
 
