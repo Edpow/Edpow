@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **VB.NET, VBA, AutoLisp, AutoCAD Automation, JavaScript, Typescript**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science, WPF, VB.net and C#**
 
 # Contact
 
