@@ -1,7 +1,5 @@
 # Edgar Rocha
 
-- 🔭 I’m currently working at [Consulgal](https://consulgal.pt/)
-
 - 💬 Ask me about **VB.NET, VBA, AutoLisp, AutoCAD Automation, JavaScript, Typescript**
 
 - 🌱 I’m currently learning **Data Science, WPF, VB.net and C#**
