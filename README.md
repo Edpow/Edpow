@@ -1,8 +1,8 @@
 # Edgar Rocha
 
-- 💬 Ask me about **VB.NET, VBA, AutoLisp, AutoCAD Automation, JavaScript, Typescript**
+- 💬 Ask me about **VB.NET, VBA, AutoLisp, AutoCAD Automation, JavaScript, Typescript, Engineering**
 
-- 🌱 I’m currently learning **Data Science, WPF, VB.net and C#**
+- 🌱 I’m currently learning **Data Science, phython, WPF and C#**
 
 # Contact
 
